@@ -1,0 +1,11 @@
+{
+	"font_size": 15,
+    "tab_size": 2,
+    "trim_trailing_white_space_on_save": true,
+    "ensure_newline_at_eof_on_save": true,
+    "save_on_focus_lost": true,
+    "scroll_speed": 1.5,
+    "bold_folder_labels": true,
+    "create_window_at_startup": false,
+    "font_face": "Consolas",
+}
